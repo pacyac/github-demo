@@ -1,3 +1,7 @@
 ### THIS REPOSITORY IS A CREATION OF THE TAILWIND WEBAPP
 
 ### GIT BRANCH
+
+1. git brach 'branch_name' = creates a new branch 
+2. git branch -d 'branch_name' = deletes the branc
+3. get checkout 'branch_name' = moves to the branch name
