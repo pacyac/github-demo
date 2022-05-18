@@ -11,3 +11,5 @@
     ### MERGING 
 ## FAST FORWARD MERGE
 1. git merge [branch_name] = merge a branch to the branch_name {automatically uses the fast merge method}
+
+## MERGING CONFICTS
