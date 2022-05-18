@@ -17,6 +17,7 @@
 
 ## REMOTE PUSHING
 1. git remote = list all server i.e remote servers
-2. git remote add origi [remote name].
+2. git remote add origin [remote url].
 # the __origin is the nickname git gives to our server  or url = https://github.com/pacyac/github-demo.git
 # the __origin can be changed, but its a tradition to keep the name
+3. git push u [remote url name]  master  = creates an upstream with the associated remote url name, hence permittint the user of git push
