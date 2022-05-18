@@ -7,3 +7,5 @@
 3. get checkout 'branch_name' = moves to the branch name
 4. git checkout -m 'new_branch_name' = rename a branch to a different one
 
+    ### MERGING 
+## FAST FORWARD MERGE
